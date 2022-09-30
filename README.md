@@ -27,7 +27,7 @@ This project uses Python 3.9.7 and the following libraries -
 
 
 ```
-pip install steamlit
+pip install streamlit
 
 streamlit run pychain.py
 ```
