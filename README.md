@@ -1,4 +1,4 @@
-Module 14 Challenge
+## Module 14 Challenge
 
 In this project, a blockchain ledger has been created.  The interface accepts specific parameters for a transaction and then adds the block to the chain.  The chain can be verified for integrity and there is a difficulty slide bar that can be adjusted. 
 ---
